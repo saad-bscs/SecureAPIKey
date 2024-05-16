@@ -1,4 +1,4 @@
-#Protect API key from Reverse engineering
+Protect API key from Reverse engineering.
 
 Steps to follow: 
 
